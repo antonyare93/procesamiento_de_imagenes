@@ -1,0 +1,9 @@
+# Entorno virtual
+.venv
+.env
+
+# Agentes de Claude
+.claude
+
+# Archivos de configuración
+CLAUDE.md
